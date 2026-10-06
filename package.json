@@ -1,0 +1,1 @@
+{"name":"creator-digest-cron","private":true,"type":"module","scripts":{"typecheck":"tsc --noEmit","test":"node --test --experimental-strip-types test/digest.test.ts","start":"node --experimental-strip-types src/digest.ts"},"dependencies":{"zod":"^3.23.8"},"devDependencies":{"@types/node":"^22.0.0","typescript":"^5.6.0"}}
